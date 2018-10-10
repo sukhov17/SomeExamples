@@ -22,7 +22,11 @@ namespace tryRedis2
 
         static void Main()
         {
-
+            Console.WriteLine("For exit room enter -e in message, for exit the app type -e!");
+            while (ToChannels() != -1)
+            {
+                Console.WriteLine($"Out of room {ChatChannel}");
+            }
         }
 
         public static int ToChannels()
