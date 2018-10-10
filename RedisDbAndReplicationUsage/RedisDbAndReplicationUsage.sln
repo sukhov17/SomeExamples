@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2041
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisDbAndReplicationUsage", "RedisDbAndReplicationUsage\RedisDbAndReplicationUsage.csproj", "{99D9BEEB-006D-4DDE-BE1C-D9C52ADE9623}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisDbAndReplicationUsage", "RedisDbAndReplicationUsage.csproj", "{99D9BEEB-006D-4DDE-BE1C-D9C52ADE9623}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
